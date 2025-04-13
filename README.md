@@ -8,7 +8,7 @@
 
 
 ## 🚀 使用方式
-🦄 文档中心:[https://docs.readme-info.com](https://docs.vaeluon.com)
+🦄 文档中心:[https://docs.vaeluon.com](https://docs.vaeluon.com)
 ## 🌰 栗子
 代码
 
