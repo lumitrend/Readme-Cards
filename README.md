@@ -8,7 +8,7 @@
 
 
 ## 🚀 使用方式
-🦄 文档中心:[https://docs.readme-info.com](https://docs.readme-info.com)
+🦄 文档中心:[https://docs.readme-info.com](https://docs.vaeluon.com)
 ## 🌰 栗子
 代码
 
@@ -22,7 +22,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=lumivoider&show_icons=true&theme=radical)
 
 </div>
-## 鸣谢
-......
-## 版权
+## 鸣谢  
+......  
+
+## 版权  
 MIT
